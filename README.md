@@ -41,9 +41,9 @@ The notebooks are based on contents and examples from the following sources:
 
 ## Supervised Learning
 
-1. [Linear Models](02-supervised-learning/01-linear-modesl.ipynb)
+1. [Linear Models](02-supervised-learning/01-linear-models.ipynb)
 2. [Decision Trees](02-supervised-learning/02-decision-trees.ipynb)
-3. [Ensemble Learning](02-supervised-learning/03-ensemble-learning.ipynbb)
+3. [Ensemble Learning](02-supervised-learning/03-ensemble-learning.ipynb)
 4. [Support Vector Machines](02-supervised-learning/04-support-vector-machines.ipynb)
 5. [Artificial Neural Networks](02-supervised-learning/05-artificial-neural-networks.ipynb)
 6. [Keras](02-supervised-learning/06-keras.ipynb)
@@ -56,17 +56,11 @@ The notebooks are based on contents and examples from the following sources:
 ## Deep Learning
 1. [Deep Neural Networks](04-deep-learning/01-deep-neural-networks.ipynb)
 2. [Tensor Flow](04-deep-learning/02-tensorflow.ipynb)
-3. [Convolutional Neural Networks](04-deep-learning/03-onvolutional-neural-networks.ipynb)
+3. [Convolutional Neural Networks](04-deep-learning/03-convolutional-neural-networks.ipynb)
 
 ## Reinforcement Learning
 
-1. [Multi-armed Bandits](05-reinforcement-learning/01-multi-armed-bandits.ipynb)
-2. [Markov Decision Process](05-reinforcement-learning/02-markov-decision-process.ipynb)
-3. [Dynamic Programming](05-reinforcement-learning/03-dynamic-programming.ipynb)
-4. [Monte Carlo Methods](05-reinforcement-learning/04-monte-carlo-methods.ipynb)
-5. [Temporal Difference Learning](05-reinforcement-learning/05-temporal-difference-learning.ipynb)
-6. [Plannig and Learning](05-reinforcement-learning/06-plannig-and-learning.ipynb)
-
-## Deep Reinforcement Learning
-
-1. [Function Approximation](06-deep-reinforcement-learning/01-function-approximation.ipynb)
+1. [Markov Decision Process](05-reinforcement-learning/01-markov-decision-process.ipynb)
+2. [Dynamic Programming](05-reinforcement-learning/02-dynamic-programming.ipynb)
+3. [Exploration and Exploitation](05-reinforcement-learning/03-exploration-exploitation.ipynb)
+4. [Policy Evaluation](05-reinforcement-learning/04-policy-evaluation.ipynb)
