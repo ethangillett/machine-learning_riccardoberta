@@ -32,7 +32,7 @@ The notebooks are based on contents and examples from the following sources:
 4. [Python](00-prerequisites/tools/python.ipynb)
 5. [NumPy](00-prerequisites/tools/numpy.ipynb)
 6. [Pandas](00-prerequisites/tools/pandas.ipynb)
-7. [MatPlotLib](/00-prerequisites/tools/matplotlib.ipynb)
+7. [MatPlotLib]/00-prerequisites/tools/matplotlib.ipynb)
 
 ## Introduction
 
