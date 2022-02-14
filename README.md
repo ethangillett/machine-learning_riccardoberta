@@ -28,7 +28,6 @@ The notebooks are based on contents and examples from the following sources:
 1. [Linear Algebra](00-prerequisites/math/linear-algebra.ipynb)
 2. [Calculus](00-prerequisites/math/calculus.ipynb)
 3. [Statistics and Probability](00-prerequisites/math/statistics-and-probability.ipynb)
-
 4. [Python](00-prerequisites/tools/python.ipynb)
 5. [NumPy](00-prerequisites/tools/numpy.ipynb)
 6. [Pandas](00-prerequisites/tools/pandas.ipynb)
