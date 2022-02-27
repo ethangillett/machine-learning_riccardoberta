@@ -11,17 +11,20 @@ The notebooks are based on contents and examples from the following sources:
 3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 4. [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 5. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+6. [Machine Learning] (http://www.cs.cmu.edu/~tom/mlbook.html)
 
 ### Courses
-6. [Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-7. [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/)
-8. [Convolutional Neural Networks](https://cs231n.github.io/)
-9. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
+1. [Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+2. [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/)
+3. [Convolutional Neural Networks](https://cs231n.github.io/)
+4. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
+5. [Stanford Machine Learning] (https://stanford.edu/~shervine/teaching/cs-229/)
+6. [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
 
 ### Others
-9. [Papers with Code](https://paperswithcode.com/sota)
-10. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
-11. [Neural Network Playground](https://playground.tensorflow.org/)
+1. [Papers with Code](https://paperswithcode.com/sota)
+2. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+3. [Neural Network Playground](https://playground.tensorflow.org/)
 
 ## Prerequisites
 
