@@ -11,7 +11,7 @@ The notebooks are based on contents and examples from the following sources:
 3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 4. [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 5. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-6. [Machine Learning] (http://www.cs.cmu.edu/~tom/mlbook.html)
+6. [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
 
 ### Courses
 1. [Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
