@@ -18,7 +18,7 @@ The notebooks are based on contents and examples from the following sources:
 2. [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/)
 3. [Convolutional Neural Networks](https://cs231n.github.io/)
 4. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
-5. [Stanford Machine Learning] (https://stanford.edu/~shervine/teaching/cs-229/)
+5. [Stanford Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 6. [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
 
 ### Others
