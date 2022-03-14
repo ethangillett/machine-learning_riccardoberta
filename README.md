@@ -1,30 +1,6 @@
 # Machine Learning Notebooks
 
-Lecture notes on Machine Learning.
-
-## References
-The notebooks are based on contents and examples from the following sources: 
-
-### Books
-1. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-2. [Dive into Deep Learning](https://d2l.ai/)
-3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-4. [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
-5. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-6. [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
-
-### Courses
-1. [Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-2. [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/)
-3. [Convolutional Neural Networks](https://cs231n.github.io/)
-4. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
-5. [Stanford Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
-6. [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
-
-### Others
-1. [Papers with Code](https://paperswithcode.com/sota)
-2. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
-3. [Neural Network Playground](https://playground.tensorflow.org/)
+Notes on Machine Learning
 
 ## Prerequisites
 
@@ -67,3 +43,28 @@ The notebooks are based on contents and examples from the following sources:
 2. [Dynamic Programming](05-reinforcement-learning/02-dynamic-programming.ipynb)
 3. [Exploration and Exploitation](05-reinforcement-learning/03-exploration-exploitation.ipynb)
 4. [Policy Evaluation](05-reinforcement-learning/04-policy-evaluation.ipynb)
+
+
+## References
+The notebooks of this course are based on contents and examples from the following sources: 
+
+### Books
+1. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+2. [Dive into Deep Learning](https://d2l.ai/)
+3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+4. [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+5. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+6. [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
+
+### Courses
+1. [Neural Networks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+2. [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/)
+3. [Convolutional Neural Networks](https://cs231n.github.io/)
+4. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
+5. [Stanford Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+6. [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
+
+### Other sources
+1. [Papers with Code](https://paperswithcode.com/sota)
+2. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+3. [Neural Network Playground](https://playground.tensorflow.org/)
