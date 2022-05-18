@@ -44,6 +44,11 @@ Notes on Machine Learning
 3. [Exploration and Exploitation](05-reinforcement-learning/03-exploration-exploitation.ipynb)
 4. [Policy Evaluation](05-reinforcement-learning/04-policy-evaluation.ipynb)
 
+## Tiny Machine Learning
+
+1. [Machine Learning on the Edge](08-tiny-machine-learning/01-machine-learning-on-the-edge.ipynb)
+2. [Tensor Flow Lite](08-tiny-machine-learning/02-tensorflow-lite.ipynb)
+3. [Quantization](08-tiny-machine-learning/03-quantization.ipynb)
 
 ## References
 The notebooks of this course are based on contents and examples from the following sources: 
