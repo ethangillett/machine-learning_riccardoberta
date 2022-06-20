@@ -43,6 +43,11 @@ Notes on Machine Learning
 2. [Dynamic Programming](05-reinforcement-learning/02-dynamic-programming.ipynb)
 3. [Exploration and Exploitation](05-reinforcement-learning/03-exploration-exploitation.ipynb)
 4. [Policy Evaluation](05-reinforcement-learning/04-policy-evaluation.ipynb)
+5. [Policy Improvement](05-reinforcement-learning/05-policy-improvement.ipynb)
+6. [Learning and Planning](05-reinforcement-learning/06-learning-and-planning.ipynb)
+
+## Deep Reinforcement Learning
+1.
 
 ## Tiny Machine Learning
 
