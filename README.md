@@ -47,7 +47,8 @@ Notes on Machine Learning
 6. [Learning and Planning](05-reinforcement-learning/06-learning-and-planning.ipynb)
 
 ## Deep Reinforcement Learning
-1.
+1. [Function Approximation](06-deep-reinforcement-learning/01-function-approximation.ipynb)
+2. [Deep Q-Network](06-deep-reinforcement-learning/02-deep-q-network.ipynb)
 
 ## Tiny Machine Learning
 
