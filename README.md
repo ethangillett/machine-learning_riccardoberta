@@ -49,6 +49,9 @@ Notes on Machine Learning
 ## Deep Reinforcement Learning
 1. [Function Approximation](06-deep-reinforcement-learning/01-function-approximation.ipynb)
 2. [Deep Q-Network](06-deep-reinforcement-learning/02-deep-q-network.ipynb)
+3. [Improved Deep Q-Network](06-deep-reinforcement-learning/03-improved-deep-q-network.ipynb)
+4. [Policy Based Methods](06-deep-reinforcement-learning/04-policy-based-methods.ipynb)
+5. [Super Mario](06-deep-reinforcement-learning/05-super-mario.ipynb)
 
 ## Tiny Machine Learning
 
@@ -74,8 +77,11 @@ The notebooks of this course are based on contents and examples from the followi
 4. [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 5. [Stanford Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 6. [Hardware for Machine Learning](https://inst.eecs.berkeley.edu/~ee290-2/sp21/)
+7. [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 
 ### Other sources
 1. [Papers with Code](https://paperswithcode.com/sota)
 2. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 3. [Neural Network Playground](https://playground.tensorflow.org/)
+4. [RLlib](https://github.com/ray-project/ray/tree/master/rllib)
+5. [Stable-Baselines](https://stable-baselines3.readthedocs.io/en/master/)
